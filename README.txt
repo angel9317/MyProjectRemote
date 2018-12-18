@@ -1,2 +1,2 @@
 This is remote repository
-, commit test.
+, commit test. 
